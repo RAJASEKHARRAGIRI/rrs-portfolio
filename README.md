@@ -1,2 +1,15 @@
-# rrs-portfolio
-Personal portfolio of Ragiri Rajasekhar (RRS), showcasing 6+ years as a .NET Full Stack Developer. Highlights skills in Angular, .NET Core, SQL Server, Azure DevOps CI/CD, and cloud services. Includes project demos, resume, and contact details. Built with modern web tech.
+# 🌟 Profolio Site 🌟  
+
+A **simple, clean, and modern** portfolio website created by **We R Developer**. Built with **HTML**, **CSS**, and **JavaScript**, this site is perfect for showcasing your projects, skills, and personal journey. 🎨  
+
+---
+
+## 🚀 Features  
+- 📝 **About Section**: Share your story and introduce yourself.  
+- 💼 **Projects Section**: Highlight your best work with descriptions and links.  
+- 🛠️ **Skills Section**: Show off your expertise and capabilities.  
+- 💖 **Support Me Section**: Includes a UPI popup for easy contributions.  
+
+---
+
+# ⚡ SEE DEMO : [CLICK HERE](https://werdeveloper.vercel.app)
