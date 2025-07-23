@@ -22,6 +22,10 @@ h1, h2, h3, p {
 
 /* support me button */
 
+.logo_title {
+    color: #6bd1ff;
+    text-shadow: 4px 0px 10px #7881ff;
+}
 .buttons {
     display: flex;
     justify-content: center; 
