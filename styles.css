@@ -190,13 +190,13 @@ header .nav-links li a {
     text-decoration: none;
     color: #ddd;
     font-size: 20px;
-    padding: 20px;
+    padding: 0px 10px;
     display: block;
     transition: color 0.3s;
 }
 
 header .nav-links li a:hover {
-    color: #00ffd5;
+    color: #1e9e1e;
 }
 
 header .hamburger {
