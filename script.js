@@ -6,7 +6,7 @@
 
 // Typing Effect
 var typed = new Typed('#wrd', {
-    strings: ['C Sharp (c#)','.Net Web Api', '.Net Core', 'Micro Services', 'SQL / Mysql', 'AWS Services', 'Jenkins CI/CD Pipelines', 'Unit Testing', 'Angular 2+/latest', 
+    strings: ['C Sharp (c#)','.Net Web Api', '.Net Core', 'Micro Services', 'SQL / Mysql', 'AWS Services', 'Jenkins CI/CD Pipelines', 'Unit Testing', 'Angular 2+ / latest', 
               'HTML5 / Bootstrap / CSS3', 'Javascript', 'React Js', 'Full-stack developer'],
     typeSpeed: 100,
     loop: true
